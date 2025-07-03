@@ -33,3 +33,10 @@ comments: true
 - 工具地址：<https://github.com/microsoft/VoTT>
 - 示意图：
     ![](./images/VoTT.jpg)
+
+## 5. X-AnyLabeling
+
+- 工具描述：支持多种标注样式，包括多边形、矩形、旋转框、圆形、线条、点以及文本检测、识别和关键信息提取的标注和自动化标注，对标注信息进行格式转换并导出
+- 工具地址：<https://github.com/CVHub520/X-AnyLabeling>
+- 示意图：
+    ![](./images/X-AnyLabeling.jpg)
